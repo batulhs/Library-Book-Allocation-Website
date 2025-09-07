@@ -5,6 +5,14 @@ It uses Flask for the backend with two allocation strategies (**Brute Force & Ba
 
 ---
 
+## ⚡ Demo
+
+<p align="center">
+  <img src="demo/gameplay.gif" alt="Gameplay Demo" width="600"/>
+</p>
+
+---
+
 ## 🚀 Features
 ### Frontend (HTML, CSS, JavaScript)
 - Interactive UI to add book demand and branch capacities.
@@ -19,10 +27,6 @@ It uses Flask for the backend with two allocation strategies (**Brute Force & Ba
 - Clean, user-friendly interface with dynamic updates.
 
 ---
-
-## ⚡ Demo
-
-![Demo GIF](https://raw.githubusercontent.com/your-username/library-book-allocation/main/screenshots/demo.gif)
 
 ### Run Locally
 1. Start the backend:
