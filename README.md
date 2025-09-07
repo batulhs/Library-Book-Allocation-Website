@@ -6,15 +6,15 @@ It uses Flask for the backend with two allocation strategies (**Brute Force & Ba
 ---
 
 ## 🚀 Features
-Frontend (HTML, CSS, JavaScript)
+### Frontend (HTML, CSS, JavaScript)
 - Interactive UI to add book demand and branch capacities.
 - Beautiful animated loader and modern responsive design.
 - Displays allocation plans in a clean, visual format.
-Backend (Flask, Python)
+### Backend (Flask, Python)
 - REST API for handling allocation requests.
 - Implements two allocation algorithms (Brute Force & Balanced).
 - Supports JSON input/output for easy integration.
-Styling
+### Styling
 - Two themes included (dark glowing style + pastel gradient theme).
 - Clean, user-friendly interface with dynamic updates.
 
