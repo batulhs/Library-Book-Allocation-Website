@@ -15,7 +15,7 @@ It uses Flask for the backend with two allocation strategies (**Brute Force & Ba
 
 ## 📸 Screenshots
 
-### Loading Page
+### 🔹 Loading Page
 <p align="center">
   <img src="screenshot/loading_1.png" alt="Loading Page" width="600"/>
 </p>
