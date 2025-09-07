@@ -13,6 +13,34 @@ It uses Flask for the backend with two allocation strategies (**Brute Force & Ba
 
 ---
 
+## 📸 Screenshots
+
+### Loading Page
+<p align="center">
+  <img src="screenshot/loading_1.png" alt="Loading Page" width="600"/>
+</p>
+
+<p align="center">
+  <img src="screenshot/loading_2.png" alt="Loading Page" width="600"/>
+</p>
+
+
+### 🔹 Home Page
+<p align="center">
+  <img src="screenshot/home_1.png" alt="Home Page" width="600"/>
+</p>
+
+<p align="center">
+  <img src="screenshot/home_2.png" alt="Home Page" width="600"/>
+</p>
+
+### 🔹 Allocation Result
+<p align="center">
+  <img src="screenshot/allocation.png" alt="Allocation Result" width="600"/>
+</p>
+
+---
+
 ## 🚀 Features
 ### Frontend (HTML, CSS, JavaScript)
 - Interactive UI to add book demand and branch capacities.
