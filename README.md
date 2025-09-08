@@ -8,7 +8,7 @@ It uses Flask for the backend with two allocation strategies (**Brute Force & Ba
 ## ⚡ Demo
 
 <p align="center">
-  <img src="demo/website.gif" alt="Website Demo" width="600"/>
+  <img src="website.gif" alt="Website Demo" width="600"/>
 </p>
 
 ---
